@@ -1,0 +1,6 @@
+name = "Donkey Kong 64"
+home = "https://discord.com/channels/731205301247803413/1409624528912650360"
+default_url = "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v{{version}}/dk64.apworld"
+
+[versions]
+"1.0.55" = {}
