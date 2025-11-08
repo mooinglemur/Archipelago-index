@@ -1,0 +1,5 @@
+name = "Getting Over It"
+home = "https://github.com/BlastSlimey/CheckingOverIt"
+
+[versions]
+"0.2.3" = { url = "https://github.com/BlastSlimey/CheckingOverIt/releases/download/0.2.3/getting_over_it.apworld" }

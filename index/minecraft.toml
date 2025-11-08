@@ -1,0 +1,5 @@
+name = "Minecraft"
+display_name = "Minecraft"
+
+[versions]
+"0.1.3" = { local = "../apworlds/minecraft.apworld" }

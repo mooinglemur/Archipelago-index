@@ -1,0 +1,5 @@
+name = "Lobotomy Corporation"
+home = "https://github.com/Kli333/LobCorp-AP"
+
+[versions]
+"1.2.0" = { url = "https://github.com/Kli333/LobCorp-AP/releases/download/v1.2.0.0/lobotomycorporation.apworld" }

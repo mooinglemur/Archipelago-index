@@ -1,0 +1,5 @@
+name = "Manual_Portal2_"
+display_name = "Manual: Portal 2"
+
+[versions]
+"0.0.2" = { local = "../apworlds/manual_portal2_.apworld" }
