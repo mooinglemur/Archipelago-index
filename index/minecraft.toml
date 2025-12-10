@@ -3,5 +3,5 @@ display_name = "Minecraft"
 default_url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/{{version}}/minecraft.apworld"
 
 [versions]
-"0.1.3_hotfix" = { local = "../apworlds/minecraft.apworld" }
-"0.1.5_hotfix" = {}
+"0.1.3+hotfix" = { local = "../apworlds/minecraft.apworld" }
+"0.1.5+hotfix" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.5_hotfix/minecraft.apworld" }
