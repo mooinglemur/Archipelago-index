@@ -6,7 +6,7 @@ default_url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/down
 "0.0.1+0.1.6.hotfix" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.6_hotfix/minecraft_dig.apworld" }
 "0.0.1+0.1.7.hotfix" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.7_hotfix/minecraft_dig.apworld" }
 "0.0.5+dig" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.5_dig/minecraft_dig.apworld" }
-"0.0.6+dig" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.6_dig/minecraft_dig.apworld" }
-"0.0.7+dig" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.7_dig/minecraft_dig.apworld" }
+"0.0.6+dig" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/APWorld_Dig_v0.0.6/minecraft_dig.apworld" }
+"0.0.7+dig" = { url = "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/APWorld_Dig_v0.0.7/minecraft_dig.apworld" }
 "0.0.10" = {}
 "0.0.11" = {}
