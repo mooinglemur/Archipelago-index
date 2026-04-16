@@ -1,0 +1,5 @@
+name = "Manual_KerbalSpaceProgramplswork_dallortheabsol"
+display_name = "Manual: Kerbal Space Progam"
+
+[versions]
+"0.0.1" = { local = "../apworlds/manual_kerbalspaceprogramplswork_dallortheabsol-0.0.1.apworld" }
