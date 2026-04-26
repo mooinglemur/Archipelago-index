@@ -1,6 +1,0 @@
-name = "Toontown"
-home = "https://discord.gg/GRjQZBsrJK"
-default_url = "https://github.com/toontown-archipelago/toontown-archipelago/releases/download/v{{version}}/toontown.apworld"
-
-[versions]
-"0.18.2" = {}
