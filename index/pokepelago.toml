@@ -5,3 +5,4 @@ default_url = "https://github.com/dowlle/PokepelagoClient/releases/download/v{{v
 [versions]
 "0.4.4" = {}
 "0.5.1" = {}
+"0.6.1" = {}
